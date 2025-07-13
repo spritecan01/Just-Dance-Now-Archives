@@ -1,7 +1,7 @@
 # Just-Dance-Now-Archives
 Created by: wii sports bowling ball and CamiCami
 
-NOTE: Some files were created manually due to the inability to restore certain files.
+NOTE: Some files were created manually or taken from servers due to the inability to restore certain files. All credits go to:
 
 Credits: alexo, Vintage, captainbob, lonedancer03, ramstein, mitchy and the Just Dance Helper and Just Dance Melody server
 
