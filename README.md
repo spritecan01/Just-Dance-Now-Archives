@@ -6,5 +6,5 @@ NOTE: Some files were created manually or taken from servers due to the inabilit
 Credits: alexo, Vintage, captainbob, lonedancer03, brennan, ramstein, mitchy and the Just Dance Melody server, and the Just Dance Helper server
 
 The files are in .zip format. Some are in Bluestar format, while others are in Bundle format, ready for modding.
-Tools for converting Bluestar to Bundle are also in this respiratory.
+Tools for converting Bluestar to Bundle, and vice-versa are also in this respiratory.
 Enjoy ~!!
