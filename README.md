@@ -1,4 +1,6 @@
 # Just-Dance-Now-Archives
+![PHOTO!](https://sm.ign.com/t/ign_ap/articlepage/j/just-dance-now-hits-6-million-downloads/just-dance-now-hits-6-million-downloads_dzz5.1280.png)
+
 Compiled by: wii sports bowling ball and CamiCami
 
 The files are in .zip format. Some are in Bluestar format, while others are in Bundle format, ready for modding.
