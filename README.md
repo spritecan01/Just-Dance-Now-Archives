@@ -1,4 +1,4 @@
-# Just-Dance-Now-Archives
+# JUST DANCE NOW ARCHIVES
 ![PHOTO!](https://sm.ign.com/t/ign_ap/articlepage/j/just-dance-now-hits-6-million-downloads/just-dance-now-hits-6-million-downloads_dzz5.1280.png)
 
 Compiled by: wii sports bowling ball and CamiCami
