@@ -4,7 +4,7 @@
 Compiled by: wii sports bowling ball and CamiCami
 
 The files are in .zip format. Some are in Bluestar format, while others are in Bundle format, ready for modding.
-Tools for converting Bluestar to Bundle, and vice-versa are also in this respository
+Tools for converting Bluestar to Bundle, and vice-versa are also in this repository.
 
 Enjoy ~!!
 
