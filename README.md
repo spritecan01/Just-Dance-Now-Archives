@@ -10,6 +10,6 @@ Enjoy ~!!
 
 ## Important Notice
 
-Some files were created manually or taken from servers due to the inability to restore certain files. All credits go to:  Vintage, murilo, alexo, captainbob, lonedancer03, brennan, ramstein, mitchy and the Just Dance Melody server, and the Just Dance Helper server
+Some files were created manually or taken from servers due to the inability to restore certain files. All credits go to:  Vintage, murilo, alexo, pokeguy4, captainbob, lonedancer03, brennan, ramstein, mitchy and the Just Dance Melody server, and the Just Dance Helper server
 
 If you are the owner of specific files and don't want them to be here, please send a message immediately.
